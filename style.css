@@ -36,14 +36,16 @@ body {
 }
 
 .btn {
-  border: #C1CAD6 outset;
+  border: #C1CAD6;
   float: right;
   border-radius: 40px;
   background-color: #C1CAD6;
 }
 
 .btn:hover {
-  border: inset;
+  border: #66C7F4;
+  background-color: #66C7F4;
+  box-shadow: 2px 2px 2px #6C6EA0;
 }
 footer {
   position: fixed;
