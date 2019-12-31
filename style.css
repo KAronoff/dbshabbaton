@@ -8,7 +8,7 @@ body {
 }
 
 .picCont {
-  border-top: solid #3A463A;
+  border-top: dotted #3A463A;
 }
 .mydisplayFont {
   font-family: 'Gelasio', serif;
