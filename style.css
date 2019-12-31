@@ -63,7 +63,7 @@ footer {
 
 .nav-link:hover {
   color: #3A463A;
-  border-top: dashed;
+  border-top: dotted;
   border-top-color: #66C7F4;
   
 }
