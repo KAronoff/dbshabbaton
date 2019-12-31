@@ -3,6 +3,13 @@ body {
   color: black;
 }
 
+#mainContent{
+  margin-left: 5%;
+}
+
+.picCont {
+  border-top: solid #3A463A;
+}
 .mydisplayFont {
   font-family: 'Gelasio', serif;
 }
@@ -32,7 +39,7 @@ body {
   border-bottom-color: #66C7F4;
   width: 67%;
   float: right;
-  margin-bottom: 4%;
+  margin-bottom: 10%;
 }
 
 .btn {
@@ -66,4 +73,8 @@ footer {
   border-top: dotted;
   border-top-color: #66C7F4;
   
+}
+
+.myImage {
+  border: solid 3px #3A463A;
 }
