@@ -1,0 +1,53 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  color: black;
+}
+
+.mydisplayFont {
+  font-family: 'Gelasio', serif;
+}
+.myheadingFont {
+  font-family: 'Lobster Two', cursive;
+}
+
+.jumbotron {
+  background-color: #987284;
+  color: #EFD6AC;
+  height: 10rem;
+  box-shadow: 2px 5px 5px #987284;
+}
+
+.infoCol {
+  padding-right: 2rem;
+}
+
+.card {
+  box-shadow: 1rem 1rem 1rem;
+  
+}
+
+.nav {
+  border-bottom: solid;
+  border-bottom-color: #9DBF9E;
+  width: 50%;
+  float: right;
+  margin-bottom: 4%;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #F8FA90;
+  color: black;
+  text-align: left;
+}
+
+a {
+  color: #9DBF9E;
+}
+
+a:hover {
+  color: #987284;
+}
