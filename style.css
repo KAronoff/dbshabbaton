@@ -11,10 +11,10 @@ body {
 }
 
 .jumbotron {
-  background-color: #987284;
-  color: #EFD6AC;
+  background-color: #6C6EA0;
+  color: #FFFFFF;
   height: 10rem;
-  box-shadow: 2px 5px 5px #987284;
+  box-shadow: 2px 5px 5px #6C6EA0;
 }
 
 .infoCol {
@@ -22,34 +22,46 @@ body {
 }
 
 .card {
-  box-shadow: 1rem 1rem 1rem;
+  box-shadow: 0px 3px 10px;
+  margin-bottom: 4%;
   
 }
 
 .nav {
   border-bottom: solid;
-  border-bottom-color: #9DBF9E;
-  width: 50%;
+  border-bottom-color: #66C7F4;
+  width: 67%;
   float: right;
   margin-bottom: 4%;
 }
 
+.btn {
+  border: #C1CAD6 outset;
+  float: right;
+  border-radius: 40px;
+  background-color: #C1CAD6;
+}
+
+.btn:hover {
+  border: inset;
+}
 footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #F8FA90;
+  background-color: #C1CAD6;
   color: black;
   text-align: left;
 }
 
-a {
-  color: #9DBF9E;
+.nav-link {
+  color: #0A122A;
 }
 
-a:hover {
-  color: #987284;
-  background-color: blue;
-  text-decoration: wavy;
+.nav-link:hover {
+  color: #66C7F4;
+  border-top: inset;
+  border-top-color: #66C7F4;
+  
 }
