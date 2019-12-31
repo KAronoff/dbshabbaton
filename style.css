@@ -17,11 +17,12 @@ body {
   font-family: 'Lobster Two', cursive;
 }
 
+
 .jumbotron {
-  background-color: #6C6EA0;
+  background-image: linear-gradient(to bottom right, #3B3C58, #66c7f4a4);
   color: #FFFFFF;
   height: 10rem;
-  box-shadow: 2px 5px 5px #6C6EA0;
+  box-shadow: 2px 5px 5px #3B3C58;
 }
 
 .infoCol {
