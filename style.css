@@ -50,4 +50,6 @@ a {
 
 a:hover {
   color: #987284;
+  background-color: blue;
+  text-decoration: wavy;
 }
