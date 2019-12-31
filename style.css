@@ -76,5 +76,7 @@ footer {
 }
 
 .myImage {
-  border: solid 3px #3A463A;
+  border: solid 2px #3A463A;
+  border-radius: 100px;
+  box-shadow: 2px 2px 2px #3A463A; 
 }
