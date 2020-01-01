@@ -9,6 +9,7 @@ body {
 
 .picCont {
   border-top: dotted #3A463A;
+  padding-top: 5%;
 }
 .mydisplayFont {
   font-family: 'Gelasio', serif;
